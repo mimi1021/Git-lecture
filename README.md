@@ -1,2 +1,2 @@
 # Git-lecture
-gitの練習用です。
+gitの練習用リポジトリです。
